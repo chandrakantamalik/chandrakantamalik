@@ -61,7 +61,7 @@
         </tr>
         <tr>
           <td>🌐 <strong>Portfolio</strong></td>
-          <td><a href="https://chandrakantamalik.dev">chandrakantamalik.dev</a></td>
+          <td><a href="https://chandra.dlayer.tech">chandrakantamalik.dev</a></td>
         </tr>
         <tr>
           <td>🛠️ <strong>Live Tools</strong></td>
@@ -124,21 +124,21 @@
 
 <table>
   <tr>
-    <th width="50%">🔬 Featured Case Studies (<a href="https://chandrakantamalik.dev/case-studies">View All 10</a>)</th>
-    <th width="50%">⚙️ Technical Projects & Tooling (<a href="https://chandrakantamalik.dev/projects">View All 10</a>)</th>
+    <th width="50%">🔬 Featured Case Studies (<a href="https://chandra.dlayer.tech/case-studies">View All 10</a>)</th>
+    <th width="50%">⚙️ Technical Projects & Tooling (<a href="https://chandra.dlayer.tech/projects">View All 10</a>)</th>
   </tr>
   <tr>
     <td valign="top">
-      • <a href="https://chandrakantamalik.dev/case-studies/server-side-measurement"><strong>Server-Side sGTM & Meta CAPI</strong></a> — <em>9.2/10 Match Quality</em><br/>
-      • <a href="https://chandrakantamalik.dev/case-studies/revenue-reconciliation"><strong>GA4 vs Shopify Revenue SQL</strong></a> — <em>Discrepancy closed to 1.5%</em><br/>
-      • <a href="https://chandrakantamalik.dev/case-studies/ga4-analytics-warehouse"><strong>GA4 BigQuery Event Warehouse</strong></a> — <em>Raw sessionization models</em><br/>
-      • <a href="https://chandrakantamalik.dev/case-studies/ecommerce-tracking-redesign"><strong>Ecommerce Tracking Redesign</strong></a> — <em>Full funnel recovery</em>
+      • <a href="https://chandra.dlayer.tech/case-studies/server-side-measurement"><strong>Server-Side sGTM & Meta CAPI</strong></a> — <em>9.2/10 Match Quality</em><br/>
+      • <a href="https://chandra.dlayer.tech/case-studies/revenue-reconciliation"><strong>GA4 vs Shopify Revenue SQL</strong></a> — <em>Discrepancy closed to 1.5%</em><br/>
+      • <a href="https://chandra.dlayer.tech/case-studies/ga4-analytics-warehouse"><strong>GA4 BigQuery Event Warehouse</strong></a> — <em>Raw sessionization models</em><br/>
+      • <a href="https://chandra.dlayer.tech/case-studies/ecommerce-tracking-redesign"><strong>Ecommerce Tracking Redesign</strong></a> — <em>Full funnel recovery</em>
     </td>
     <td valign="top">
       • <a href="https://dlayer.tech"><strong>Universal Form Tracking Framework</strong></a> — <em>Live on dlayer.tech</em><br/>
-      • <a href="https://chandrakantamalik.dev/projects/custom-gtm-tag-template"><strong>Custom GTM Sandboxed Tag Template</strong></a> — <em>Minimal API scopes</em><br/>
-      • <a href="https://chandrakantamalik.dev/projects/custom-sgtm-client"><strong>Custom sGTM Gateway Client</strong></a> — <em>Payload normalization</em><br/>
-      • <a href="https://chandrakantamalik.dev/projects/ga4-ai-auditing-tool"><strong>GA4 AI Measurement QA Auditor</strong></a> — <em>Automated triage</em>
+      • <a href="https://chandra.dlayer.tech/projects/custom-gtm-tag-template"><strong>Custom GTM Sandboxed Tag Template</strong></a> — <em>Minimal API scopes</em><br/>
+      • <a href="https://chandra.dlayer.tech/projects/custom-sgtm-client"><strong>Custom sGTM Gateway Client</strong></a> — <em>Payload normalization</em><br/>
+      • <a href="https://chandra.dlayer.tech/projects/ga4-ai-auditing-tool"><strong>GA4 AI Measurement QA Auditor</strong></a> — <em>Automated triage</em>
     </td>
   </tr>
 </table>
