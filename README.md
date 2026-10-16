@@ -11,7 +11,7 @@
      2. QUICK LINKS & BADGES STRIP (Balanced 1-Line Layout)
      ========================================================================== -->
 <p align="center">
-  <a href="https://chandrakantamalik.dev" target="_blank">
+  <a href="https://chandra.dlayer.tech" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-chandrakantamalik.dev-635bff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://dlayer.tech" target="_blank">
