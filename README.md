@@ -12,7 +12,7 @@
      ========================================================================== -->
 <p align="center">
   <a href="https://chandra.dlayer.tech" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-chandrakantamalik.dev-635bff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-chandra.dlayer.tech-635bff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://dlayer.tech" target="_blank">
     <img src="https://img.shields.io/badge/LIVE_SIMULATOR-dlayer.tech-00D924?style=for-the-badge&logo=fastapi&logoColor=white" alt="DLayer.tech" />
@@ -61,7 +61,7 @@
         </tr>
         <tr>
           <td>🌐 <strong>Portfolio</strong></td>
-          <td><a href="https://chandra.dlayer.tech">chandrakantamalik.dev</a></td>
+          <td><a href="https://chandra.dlayer.tech">chandra.dlayer.tech</a></td>
         </tr>
         <tr>
           <td>🛠️ <strong>Live Tools</strong></td>
